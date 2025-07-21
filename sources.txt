@@ -1,0 +1,5 @@
+E:\Projects\Mine\ExpenseTracker-CLI\src\main\java\Main.java
+E:\Projects\Mine\ExpenseTracker-CLI\src\main\java\cli\CLI.java
+E:\Projects\Mine\ExpenseTracker-CLI\src\main\java\model\Expense.java
+E:\Projects\Mine\ExpenseTracker-CLI\src\main\java\service\ExpenseManager.java
+E:\Projects\Mine\ExpenseTracker-CLI\src\main\java\service\StorageService.java
